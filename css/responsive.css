@@ -35,6 +35,12 @@
   padding: 250px 0px 358px 0px;
   height: auto;
 }
+.secfooterbg {
+  background-color: #a6f4ff;
+  margin-top: -192px !important;
+  padding-top: 150px;
+  padding-bottom: 100px;
+}
 
 }
 
