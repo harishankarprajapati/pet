@@ -45,20 +45,145 @@
 
 
 @media only screen and (max-width:767px) {
-  
+
+  .herobacksec {
+    padding: 0px 0px 0px 0px;
+  } 
+  a.navbar-brand {
+    width: 70%;
+}
+img.sec-logo-img {
+  width: 100%;
+}
   .offcanvas-header {
     background: #000;
 }
 button.navbar-toggler {
-  background: #000;
+  background: #00000061;
   height: 55px;
 }
 div#navbarOffcanvas {
   padding-top: 0px;
 }
-  .herobacksec {
-    padding: 177px 20px 0px 20px;
-  } 
+.container-fluid.align-items-start {
+  align-items: center !important;
+}
+.navbar-nav.justify-content-center.align-items-center.flex-grow-1.pe-3 {
+  align-items: start !important;
+}
+.mainheatertitt p {
+  font-size: 17px;
+  padding-top: 43px;
+}
+.mainheatertitt h1 {
+  font-size: 30px;
+}
+.secpaddco {
+  padding-top: 0px;
+  padding: 0px 20px;
+}
+.secchectitle {
+  font-size: 40px;
+  margin-bottom: 34px;
+}
+.homeabouttittle h3 {
+  font-size: 40px;
+  padding-top: 40px;
+}
+.homeabouttittle p {
+  padding-bottom: 20px;
+}
+.secabtabbg4 {
+  height: auto;
+}
+
+.seccheckbg2 {
+  background-image:none;
+  height: auto;
+  padding: 0px 20px;
+  margin-top: 50px !important;
+  margin-bottom: 50px !important;
+}
+.seccartittle h3 {
+  font-size: 40px;
+  margin-bottom: 32px;
+}
+.seccartittle p {
+  width: 100%;
+}
+
+.seccheckbg3 {
+  background-image: none;
+  padding: 0px 20px;
+  height: auto;
+  margin-bottom: 50px !important;
+}
+.sectricktittle h3 {
+  font-size: 40px;
+}
+
+.sectrakpaddbgg {
+  padding-bottom: 50px;
+}
+
+.secdaybgg {
+  padding: 30px;
+  text-align: center;
+  height: auto;
+  margin-bottom: 30px;
+}
+.secdaybgg2 {
+  padding: 30px;
+  height: auto;
+  margin:0;
+  margin-bottom: 30px;
+}
+.sectestimonbg {
+  padding: 0px 20px;
+  height: auto;
+  margin-top: 50px;
+  margin-bottom: 50px !important;
+}
+
+.sectexttle p {
+  text-align: left;
+  padding-top: 30px;
+}
+.sectricktittle h3 {
+  font-size: 30px !important;
+
+}
+
+.sectexttle h3 {
+  font-size: 23px !important;
+}
+.sectexttle h4 {
+  width: 100%;
+  padding-top: 15px;
+}
+
+.secnewstittle h3 a {
+  font-family: 'Nunito Sans';
+  font-size: 22px;
+}
+.secfooterbg {
+  margin-top: -44px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.secpetbgg {
+  padding-bottom: 40px;
+}
+.secfooterpadd {
+  padding-top: 50px;
+}
+
+
+
+
+
+
+
   .allheadertext h1 {
     font-size: 24px;
   }
