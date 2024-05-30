@@ -41,7 +41,16 @@
   padding-top: 150px;
   padding-bottom: 100px;
 }
+.mainheatertitt {
+  padding-top: 265px;
+}
 
+.mainheatertitt p {
+    font-size: 28px;
+}
+.mainheatertitt h1 {
+  font-size: 85px;
+}
 }
 
 
