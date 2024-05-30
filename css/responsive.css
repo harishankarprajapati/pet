@@ -51,6 +51,10 @@
 .mainheatertitt h1 {
   font-size: 85px;
 }
+
+
+
+
 }
 
 
@@ -202,4 +206,7 @@ div#navbarOffcanvas {
 }
 
 
+.seccheckbg  {
+  background-image: none !important;
+}
 }
