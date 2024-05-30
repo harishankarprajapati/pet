@@ -45,6 +45,14 @@
 
 
 @media only screen and (max-width:767px) {
+  .headermenusec {
+    color: #000;
+    margin-left: 0px;
+    padding-bottom: 20px;
+}
+.secmobileimg{
+  display: block;
+}
 
   .herobacksec {
     padding: 0px 0px 0px 0px;
@@ -178,68 +186,5 @@ div#navbarOffcanvas {
   padding-top: 50px;
 }
 
-
-
-
-
-
-
-  .allheadertext h1 {
-    font-size: 24px;
-  }
-  .secherotext h1 {
-    font-size: 28px;
-  }
-  .headermenusec {
-    color: #000;
-    margin-left: 0px;
-    padding-bottom: 20px;
-}
-.headmenu2 {
-  background:transparent;
-  border: 0px;
-  color: #000;
-  padding: 0;
-  margin-top: -18px;
-  text-transform: capitalize;
-}
-.secherotext p {
-  font-size: 16px;
-  width: 100%;
-}
-.seccountermar {
-  margin-top: 50px;
-}
-.counter-box {
-  text-align: center;
-}
-.secallpaddin {
-  padding-top: 50px;
-  padding-bottom: 50px;
-}
-.textviewbtn2 {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  padding-bottom: 50px;
-}
-.twoslider .owl-nav {
-  margin-top: -510px;
-  margin-bottom: 470px;
-}
-.secpriseflaex {
-  display: flex;
-  flex-direction: column;
-  padding-bottom: 50px;
-}
-.allheadertext22 h1 {
-  font-size: 28px;
-}
-.sidersec2 {
-  margin-left: 12px;
-}
-.secpadboot {
-  padding-bottom: 50px;
-}
 
 }

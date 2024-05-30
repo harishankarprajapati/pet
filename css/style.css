@@ -767,6 +767,9 @@ text-align: left !important;
   padding-top: 150px;
   padding-bottom: 100px;
 }
+.secmobileimg{
+  display: none;
+}
 
 .secfooterpadd{
   padding-top: 100px;
