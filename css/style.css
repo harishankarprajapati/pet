@@ -862,3 +862,6 @@ color: #000 !important;
 transition: all 200ms ease;
 position: relative;
 }
+.sec-footer-logo{
+  width: 70%;
+}
