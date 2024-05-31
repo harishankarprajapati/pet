@@ -52,7 +52,13 @@
   font-size: 85px;
 }
 
-
+.homesecbg2 {
+  background-image: url(../images/homebg2.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 264px;
+  margin-top: -264px !important;
+}
 
 
 }
